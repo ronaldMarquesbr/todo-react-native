@@ -14,7 +14,6 @@ export function Home() {
       title: newTaskTitle,
       done: false
     }
-    console.log(tasks)
 
     setTasks(oldTasks => [...oldTasks, newTask]);
   }

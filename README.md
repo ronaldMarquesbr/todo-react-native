@@ -8,6 +8,6 @@ Projeto realizado para o Ignite - Rocketseat.
 
 ### Screenshots
 
-![App Screenshot](screenshots/src1.png)
-![App Screenshot](screenshots/src2.png)
-![App Screenshot](screenshots/src3.png)
+![App Screenshot](screenshots/scr1.png)
+![App Screenshot](screenshots/scr2.png)
+![App Screenshot](screenshots/scr3.png)
